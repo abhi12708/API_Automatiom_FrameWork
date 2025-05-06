@@ -18,6 +18,9 @@ public class test1 {
 			System.out.println(response.asPrettyString());
 			Assert.assertEquals(response.getStatusCode(), 200);
 			
+			System.out.println("checking push in git");
+			System.out.println("the second line ");
+			System.out.println("git..");
 			
 		}
 }
